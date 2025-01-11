@@ -28,15 +28,6 @@ This project involves building a predictive model to determine whether a client 
 - **Python**: For data preprocessing and custom scripting.
 - **Machine Learning**: Random Forest, Decision Tree, Logistic Regression.
 
-## Challenges
-- **SMOTE Technique**: Attempted implementation in Dataiku but faced library installation issues.
-- **Cost Sensitivity**: Focused on minimizing the cost of missing potential subscribers while balancing false positives.
-
 ## Results
 - The **Random Forest model** performed the best in predicting term deposit subscriptions based on recall and ROC-AUC metrics.
-- The workflow can be extended for real-time deployment to assist in customer targeting.
 
-## How to Use
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/<YourUsername>/<YourRepository>.git
