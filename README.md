@@ -31,3 +31,7 @@ This project involves building a predictive model to determine whether a client 
 ## Results
 - The **Random Forest model** performed the best in predicting term deposit subscriptions based on recall and ROC-AUC metrics.
 
+## Report
+- Please see the attached report for the detail.
+
+
